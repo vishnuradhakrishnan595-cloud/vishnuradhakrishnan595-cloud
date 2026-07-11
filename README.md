@@ -1,11 +1,6 @@
-<div align="center">
-
 # Hi 👋, I'm Vishnu
 
 Welcome to my GitHub profile! I'm a passionate web developer dedicated to building scalable, user-centric applications with modern technologies.
-
-
-</div>
 
 ---
 
@@ -15,6 +10,20 @@ Welcome to my GitHub profile! I'm a passionate web developer dedicated to buildi
 - 🎓 Committed to continuous learning and staying current with emerging technologies
 - 💡 Focused on creating elegant solutions that blend functionality with exceptional user experience
 - 🤝 Open to collaborating on exciting projects
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+Showcasing my projects, skills, and experience in modern web development.
+</p>
 
 ---
 
@@ -34,11 +43,11 @@ Welcome to my GitHub profile! I'm a passionate web developer dedicated to buildi
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,angular,vue" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,angular,vue" />
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,php,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,php,python" />
 
 ### Databases
 
@@ -57,5 +66,5 @@ Welcome to my GitHub profile! I'm a passionate web developer dedicated to buildi
 ### 💙 Thanks for visiting my profile!
 
 Open to new opportunities and collaborations. Let's build something amazing together!
-</div>
 
+</div>
