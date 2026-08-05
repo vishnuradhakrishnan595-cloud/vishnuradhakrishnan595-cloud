@@ -43,11 +43,11 @@ Showcasing my projects, skills, and experience in modern web development.
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,angular,vue" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,php,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,django,php,python" />
 
 ### Databases
 
