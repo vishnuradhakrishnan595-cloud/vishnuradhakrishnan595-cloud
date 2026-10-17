@@ -1,342 +1,156 @@
-<!-- ===================== HEADER ===================== -->
-
-<h1 align="center">Hi 👋, I'm Vishnu Radhakrishnan Nair</h1>
-
-<h3 align="center">
-  🐍 Python Full Stack Developer | Django & React.js | REST API Developer
-</h3>
+<!-- =============== PREMIUM HEADER =============== -->
 
 <p align="center">
-  Building scalable, secure, and user-centric web applications with modern technologies.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=220&section=header&text=Vishnu%20Radhakrishnan%20Nair&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Full%20Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Profile Header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;Django+%7C+React.js+%7C+REST+APIs;JWT+Authentication+%7C+Database+Design;Redis+%7C+Celery+%7C+Background+Tasks;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;Django+%7C+React.js+%7C+REST+APIs;JWT+Authentication+%7C+Database+Design;Redis+%7C+Celery+%7C+Background+Tasks;Building+Modern+Web+Applications" alt="Typing Animation"/>
 </p>
 
 <p align="center">
-  <a href="https://vishnurnair.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://vishnurnair.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/vishnuradhakrishnan595-cloud" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/vishnuradhakrishnan595-cloud">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Profile-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:vishnuradhakrishnan595@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
----
 
-<!-- ===================== ABOUT ME ===================== -->
 
-## 👨‍💻 About Me
+<!-- =============== ABOUT ME =============== -->
 
-I'm a **Python Full Stack Developer and BCA graduate** passionate about designing and developing modern web applications.
-
-* 🐍 Building backend applications with **Python, Django, and Django REST Framework**.
-* ⚛️ Creating responsive user interfaces using **React.js, JavaScript, and Tailwind CSS**.
-* 🔗 Developing and integrating **RESTful APIs** for seamless frontend-backend communication.
-* 🔐 Implementing authentication and authorization using **JWT and role-based access control**.
-* 🗄️ Working with relational and NoSQL databases, including **PostgreSQL, MySQL, and MongoDB**.
-* ⚡ Exploring **Redis, Celery, asynchronous processing, and background task scheduling**.
-* 🛠️ Using Git, GitHub, Postman, Docker, and modern development tools.
-* 📚 Continuously learning, improving my problem-solving skills, and building practical projects.
-* 🤝 Open to collaborating on interesting projects and exploring software development opportunities.
-
-📍 Kerala, India
-
----
-
-<!-- ===================== PORTFOLIO ===================== -->
-
-## 🌐 My Portfolio
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <a href="https://vishnurnair.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-Visit_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Portfolio"/>
-  </a>
+  I'm a <b>Python Full Stack Developer and BCA graduate</b> passionate about building
+  modern, scalable, and user-friendly web applications.
 </p>
 
 <p align="center">
-  Discover my projects, technical skills, development experience, and journey as a Python Full Stack Developer.
+  🔹 Backend Development with Python & Django<br/>
+  🔹 Responsive Frontend Development with React.js<br/>
+  🔹 REST API Development & Integration<br/>
+  🔹 JWT Authentication & Role-Based Access Control<br/>
+  🔹 Database Design, Optimization & Management<br/>
+  🔹 Redis, Celery & Background Task Processing<br/>
+  🔹 Continuous Learning & Problem Solving
 </p>
 
----
-
-<!-- ===================== TECH STACK ===================== -->
-
-## 🛠️ Tech Stack & Technologies
-
-### 🎨 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend Technologies"/>
+<p align="center">
+  📍 Kerala, India &nbsp;•&nbsp; 💡 Always Learning &nbsp;•&nbsp; 🤝 Open to Opportunities
 </p>
 
-* HTML5 & CSS3
-* JavaScript (ES6+)
-* React.js
-* Tailwind CSS
-* Bootstrap
-* Responsive Web Design
-* Component-Based UI Development
-* API Integration
 
-### ⚙️ Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs" alt="Backend Technologies"/>
+<!-- =============== TECH STACK =============== -->
+
+<h2 align="center">🛠️ Tech Stack & Technologies</h2>
+
+<p align="center">
+  <i>Technologies I use to build modern web applications</i>
 </p>
 
-* Python
-* Django
-* Django REST Framework (DRF)
-* Flask
-* RESTful API Development
-* CRUD Operations
-* JWT Authentication
-* Role-Based Access Control (RBAC)
-* API Validation & Error Handling
-* Backend Business Logic
+<h3 align="center">🎨 Frontend</h3>
 
-### 🔗 APIs & Authentication
-
-<p>
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-  <img src="https://img.shields.io/badge/OAuth_2.0-3C873A?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth 2.0"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=light" alt="HTML CSS JavaScript React Tailwind Bootstrap"/>
 </p>
 
-* REST API Design & Integration
-* Django REST Framework
-* JSON Data Serialization
-* JWT Access & Refresh Tokens
-* Authentication & Authorization
-* API Testing with Postman
-* HTTP Methods & Status Codes
-* Pagination, Filtering & Search
+<h3 align="center">⚙️ Backend</h3>
 
-### 🗄️ Databases & Data Management
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" alt="Database Technologies"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs&theme=light" alt="Python Django Flask Node.js"/>
 </p>
 
-* PostgreSQL
-* MySQL
-* MongoDB
-* SQLite
-* Redis
-* Database Modeling & Relationships
-* SQL Queries & Joins
-* CRUD Operations
-* Query Optimization
-* Database Migrations
+<h3 align="center">🔗 APIs & Authentication</h3>
 
-### ⚡ Background Tasks & Performance
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,postman&theme=light" alt="FastAPI and Postman"/>
+  <img src="https://img.shields.io/badge/REST%20API-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication"/>
+</p>
 
-<p>
+<h3 align="center">🗄️ Databases & Caching</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=light" alt="PostgreSQL MySQL MongoDB Redis SQLite"/>
+</p>
+
+<h3 align="center">⚡ Background Tasks & Processing</h3>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://skillicons.dev/icons?i=redis&theme=light" alt="Redis"/>
 </p>
 
-* Celery for Distributed Background Tasks
-* Redis for Caching and Message Brokering
-* Scheduled Tasks with Celery Beat
-* Asynchronous Task Processing
-* Performance Optimization
-* Efficient API Response Handling
-
-### 🔧 Tools & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,vercel,render" alt="Development Tools"/>
-</p>
-
-* Git & GitHub
-* Docker & Containerization
-* Postman
-* Visual Studio Code
-* Linux Fundamentals
-* Environment Variables & Configuration
-* Application Deployment
-* Vercel & Render
-
-### 🎨 Additional Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,firebase" alt="Additional Technologies"/>
-</p>
-
-* UI/UX Fundamentals
-* Figma
-* Firebase
-* Software Debugging
-* Problem Solving
-* Object-Oriented Programming (OOP)
-
----
-
-<!-- ===================== DEVELOPMENT APPROACH ===================== -->
-
-## 🚀 What I Build
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌐 Full Stack Applications</h3>
-      <p align="center">
-        Responsive React interfaces connected to Django backends, databases, and REST APIs.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔐 Secure Backend Systems</h3>
-      <p align="center">
-        Authentication, JWT tokens, permissions, role-based access, and reliable API endpoints.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚡ Scalable Services</h3>
-      <p align="center">
-        Background processing, caching, scheduled jobs, and efficient database operations.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 Data-Driven Applications</h3>
-      <p align="center">
-        Database-backed dashboards, business workflows, reporting, and management systems.
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
-
-## 💼 Featured Projects
-
-### 🧠 INTERVUE — AI-Powered Recruitment Platform
-
-An intelligent recruitment and interview management platform designed to streamline hiring workflows.
-
-* 👥 Role-based access for candidates, recruiters, HR, and administrators.
-* 📄 Resume management and candidate-job matching.
-* 🔐 Authentication using JWT.
-* ⚙️ Backend APIs using Django REST Framework.
-* ⚛️ React-based user interface.
-* 🗄️ PostgreSQL-oriented data management.
-
-**Tech:** Python · Django REST Framework · React.js · PostgreSQL · JWT
-
-### 💳 PayPilot — Payroll Management System
-
-A payroll management application designed to simplify payroll workflows and employee-related operations.
-
-* Employee and payroll data management.
-* Database-driven business operations.
-* Responsive dashboard and user interface.
-* Backend integration and CRUD functionality.
-
-**Tech:** Python · Django · React.js · SQL
-
-### 🏎️ F1 GameZone
-
-A web project inspired by Formula 1 and interactive motorsport experiences.
-
-* Responsive web interface.
-* Modern styling and component layouts.
-* Interactive frontend elements.
-
-**Tech:** HTML · CSS · JavaScript · Bootstrap
-
-### 🏥 Health Connect
-
-A healthcare-oriented web application focused on organizing information and improving access to relevant features.
-
-* User-friendly interface.
-* Structured information presentation.
-* Responsive frontend development.
-
-**Tech:** Web Technologies · JavaScript · Bootstrap
-
-### 🛍️ ShopEase — E-Commerce Project
-
-A shopping-oriented web application focused on product presentation and a user-friendly browsing experience.
-
-* Product-focused interface.
-* Responsive layouts.
-* Interactive user experience.
-
-**Tech:** HTML · CSS · JavaScript · Bootstrap
+<h3 align="center">🔧 Tools & DevOps</h3>
 
 <p align="center">
-  <i>Explore my GitHub repositories for source code, implementation details, and additional projects.</i>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,vercel,render&theme=light" alt="Git GitHub Docker Postman VS Code Linux Vercel Render"/>
+</p>
+
+<h3 align="center">🎨 Design & Additional Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,firebase&theme=light" alt="Figma Firebase"/>
+</p>
+
+
+
+<!-- =============== GITHUB STATISTICS =============== -->
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=vishnuradhakrishnan595-cloud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuradhakrishnan595-cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/vishnuradhakrishnan595-cloud?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
-  </a>
-</p>
-
----
-
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vishnuradhakrishnan595-cloud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuradhakrishnan595-cloud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="75%" src="https://streak-stats.demolab.com?user=vishnuradhakrishnan595-cloud&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishnuradhakrishnan595-cloud&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vishnuradhakrishnan595-cloud&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnuradhakrishnan595-cloud&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
-</p>
 
----
 
-<!-- ===================== CONNECT ===================== -->
+<!-- =============== CONNECT =============== -->
 
-## 🤝 Connect With Me
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
   <a href="https://github.com/vishnuradhakrishnan595-cloud">
-    <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:vishnuradhakrishnan595@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  💼 Open to opportunities, collaboration, and interesting software development projects.
+  <b>Open to opportunities, collaborations, and exciting development challenges.</b>
 </p>
 
----
 
-<!-- ===================== FOOTER ===================== -->
 
-<h3 align="center">💙 Thanks for visiting my GitHub profile!</h3>
+<!-- =============== FOOTER =============== -->
 
 <p align="center">
-  <b>Code. Learn. Build. Improve. Repeat.</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:0F172A&height=120&section=footer" width="100%" alt="Footer"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=120&section=footer" alt="Footer Banner"/>
+  <i>Code. Create. Learn. Repeat. 💙</i>
 </p>
